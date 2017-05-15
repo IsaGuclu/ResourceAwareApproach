@@ -1,0 +1,43 @@
+--- General Info of an Ontology ---
+Ontology: C:\Users\r01ig15\Desktop\Func2\emap.owl - 41177 axioms.
+(Axiom Types)
+-------------
+TransitiveObjectProperty = 2
+Declaration = 19454
+SubClassOf = 21721
+TOTAL = 41177
+--- End of Task. (14349 msec.) ---
+--- General Info of an Ontology ---
+Ontology: C:\Users\r01ig15\Desktop\Func2\fma-el.owl - 295729 axioms.
+(Axiom Types)
+-------------
+ObjectPropertyRange = 63
+SubObjectPropertyOf = 15
+ObjectPropertyDomain = 22
+Declaration = 84467
+SubClassOf = 211162
+TOTAL = 295729
+--- End of Task. (74197 msec.) ---
+--- General Info of an Ontology ---
+Ontology: C:\Users\r01ig15\Desktop\Func2\go.owl - 156429 axioms.
+(Axiom Types)
+-------------
+DisjointClasses = 31
+SubObjectPropertyOf = 3
+TransitiveObjectProperty = 4
+Declaration = 48561
+InverseObjectProperties = 1
+EquivalentClasses = 11919
+SubPropertyChainOf = 6
+SubClassOf = 95904
+TOTAL = 156429
+--- End of Task. (46795 msec.) ---
+--- General Info of an Ontology ---
+Ontology: C:\Users\r01ig15\Desktop\chebi_FuncWOAnnot.owl - 340301 axioms.
+(Axiom Types)
+-------------
+TransitiveObjectProperty = 2
+Declaration = 106862
+InverseObjectProperties = 1
+SubClassOf = 233436
+TOTAL = 340301

@@ -1,0 +1,19 @@
+--- Ontology Traversor ---
+--- Type of modules: LM
+Used Memory before: 3388 KB.
+Signature : http://snomed.org/89811004
+Signature : http://snomed.org/12738006
+Matched 2 entities in the ontology
+(Ontology Loaded to OWLOntology - RAM Beginning:3388: KB. RAM End:343930: KB. RAM Diff:340542: KB.)
+(Extracting memory:3388: KB. RAM End:530916: KB. RAM Diff:527528: KB.)
+AxiomCount in Ontology : 623676
+* Desired Axioms: 2
+(Extracting New Ontology : 6626 msec.)
+--- Stats ---
+initial signature: 2
+module signature: 312017
+* Axioms written to File: /Users/isa/OneDrive/CodesWS/KnowledgeExtractor.v.1.0/assets/output/LM-snomed_jan17.owl
+(Writing New Ontology : 9098 msec.)
+RAM Beginning:3388: KB. RAM End:921164: KB. RAM Diff:917776: KB.
+TOTAL PROCESSING TIME : 15725 msec.
+--- The End ---

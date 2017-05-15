@@ -1,0 +1,63 @@
+--- Ontology Traversor ---
+Used Memory before: 968103 KB.
+Signature : <http://snomed.org/89811004>
+Signature : <http://snomed.org/12738006>
+(Ontology Loaded to OWLOntology - RAM Beginning:968103: KB. RAM End:1095544: KB. RAM Diff:127441: KB.)
+(Loading Ontology by OWLAPI : 296200 msec.)
+(Copying Axioms to Hashset - RAM Beginning:968103: KB. RAM End:1189221: KB. RAM Diff:221118: KB.)
+(Copying Axioms to Hashset took : 454 msec.)
+AxiomCount in Ontology : 650377
+* Desired Axioms: 2
+* iterationCount: 1
+Axioms.size(): 408
+DesiredSignatures.size(): 906
+ContinueIteration: true
+dAxiomsOfOntology Size : 649969
+* iterationCount: 2
+Axioms.size(): 132851
+DesiredSignatures.size(): 159677
+ContinueIteration: true
+dAxiomsOfOntology Size : 517526
+* iterationCount: 3
+Axioms.size(): 388131
+DesiredSignatures.size(): 231121
+ContinueIteration: true
+dAxiomsOfOntology Size : 262246
+* iterationCount: 4
+Axioms.size(): 505416
+DesiredSignatures.size(): 274658
+ContinueIteration: true
+dAxiomsOfOntology Size : 144961
+* iterationCount: 5
+Axioms.size(): 569617
+DesiredSignatures.size(): 295031
+ContinueIteration: true
+dAxiomsOfOntology Size : 80760
+* iterationCount: 6
+Axioms.size(): 599746
+DesiredSignatures.size(): 304804
+ContinueIteration: true
+dAxiomsOfOntology Size : 50631
+* iterationCount: 7
+Axioms.size(): 616702
+DesiredSignatures.size(): 311983
+ContinueIteration: true
+dAxiomsOfOntology Size : 33675
+* iterationCount: 8
+Axioms.size(): 629715
+DesiredSignatures.size(): 317793
+ContinueIteration: true
+dAxiomsOfOntology Size : 20662
+* MAX AXIOM REACHED:630000
+* iterationCount: 9
+Axioms.size(): 630000
+DesiredSignatures.size(): 317793
+ContinueIteration: false
+dAxiomsOfOntology Size : 20662
+(Extracting New Ontology : 6303 msec.)
+--- Stats ---
+* Axioms written to File: C:\Users\r01ig15\OneDrive\CodesWS\KnowledgeExtractor.v.1.0\assets\output\snomed_jan17_630000.owl
+(Writing New Ontology : 5955 msec.)
+RAM Beginning:968103: KB. RAM End:734976: KB. RAM Diff:-233127: KB.
+TOTAL PROCESSING TIME : 12713 msec.
+--- The End ---

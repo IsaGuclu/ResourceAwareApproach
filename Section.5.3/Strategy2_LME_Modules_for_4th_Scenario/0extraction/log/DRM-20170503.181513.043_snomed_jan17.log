@@ -1,0 +1,19 @@
+--- Ontology Traversor ---
+--- Type of modules: DRM
+Used Memory before: 829859 KB.
+Signature : http://snomed.org/89811004
+Signature : http://snomed.org/12738006
+Matched 2 entities in the ontology
+(Ontology Loaded to OWLOntology - RAM Beginning:829859: KB. RAM End:1249283: KB. RAM Diff:419424: KB.)
+(Extracting memory:829859: KB. RAM End:1315316: KB. RAM Diff:485457: KB.)
+AxiomCount in Ontology : 47
+* Desired Axioms: 2
+(Extracting New Ontology : 2230 msec.)
+--- Stats ---
+initial signature: 2
+module signature: 24
+* Axioms written to File: /Users/isa/OneDrive/CodesWS/KnowledgeExtractor.v.1.0/assets/output/DRM-snomed_jan17.owl
+(Writing New Ontology : 1 msec.)
+RAM Beginning:829859: KB. RAM End:1315316: KB. RAM Diff:485457: KB.
+TOTAL PROCESSING TIME : 2231 msec.
+--- The End ---

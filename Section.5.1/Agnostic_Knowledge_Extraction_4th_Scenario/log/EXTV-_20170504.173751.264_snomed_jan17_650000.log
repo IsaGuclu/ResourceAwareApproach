@@ -1,0 +1,88 @@
+--- Ontology Traversor ---
+Used Memory before: 663881 KB.
+Signature : <http://snomed.org/89811004>
+Signature : <http://snomed.org/12738006>
+(Ontology Loaded to OWLOntology - RAM Beginning:663881: KB. RAM End:962706: KB. RAM Diff:298825: KB.)
+(Loading Ontology by OWLAPI : 291246 msec.)
+(Copying Axioms to Hashset - RAM Beginning:663881: KB. RAM End:1055056: KB. RAM Diff:391175: KB.)
+(Copying Axioms to Hashset took : 438 msec.)
+AxiomCount in Ontology : 650377
+* Desired Axioms: 2
+* iterationCount: 1
+Axioms.size(): 408
+DesiredSignatures.size(): 906
+ContinueIteration: true
+dAxiomsOfOntology Size : 649969
+* iterationCount: 2
+Axioms.size(): 132851
+DesiredSignatures.size(): 159677
+ContinueIteration: true
+dAxiomsOfOntology Size : 517526
+* iterationCount: 3
+Axioms.size(): 388131
+DesiredSignatures.size(): 231121
+ContinueIteration: true
+dAxiomsOfOntology Size : 262246
+* iterationCount: 4
+Axioms.size(): 505416
+DesiredSignatures.size(): 274658
+ContinueIteration: true
+dAxiomsOfOntology Size : 144961
+* iterationCount: 5
+Axioms.size(): 569617
+DesiredSignatures.size(): 295031
+ContinueIteration: true
+dAxiomsOfOntology Size : 80760
+* iterationCount: 6
+Axioms.size(): 599746
+DesiredSignatures.size(): 304804
+ContinueIteration: true
+dAxiomsOfOntology Size : 50631
+* iterationCount: 7
+Axioms.size(): 616702
+DesiredSignatures.size(): 311983
+ContinueIteration: true
+dAxiomsOfOntology Size : 33675
+* iterationCount: 8
+Axioms.size(): 629715
+DesiredSignatures.size(): 317793
+ContinueIteration: true
+dAxiomsOfOntology Size : 20662
+* iterationCount: 9
+Axioms.size(): 637991
+DesiredSignatures.size(): 320255
+ContinueIteration: true
+dAxiomsOfOntology Size : 12386
+* iterationCount: 10
+Axioms.size(): 641678
+DesiredSignatures.size(): 321480
+ContinueIteration: true
+dAxiomsOfOntology Size : 8699
+* iterationCount: 11
+Axioms.size(): 644070
+DesiredSignatures.size(): 322647
+ContinueIteration: true
+dAxiomsOfOntology Size : 6307
+* iterationCount: 12
+Axioms.size(): 646916
+DesiredSignatures.size(): 324326
+ContinueIteration: true
+dAxiomsOfOntology Size : 3461
+* iterationCount: 13
+Axioms.size(): 649311
+DesiredSignatures.size(): 325042
+ContinueIteration: true
+dAxiomsOfOntology Size : 1066
+* MAX AXIOM REACHED:650000
+* iterationCount: 14
+Axioms.size(): 650000
+DesiredSignatures.size(): 325042
+ContinueIteration: false
+dAxiomsOfOntology Size : 1066
+(Extracting New Ontology : 6204 msec.)
+--- Stats ---
+* Axioms written to File: C:\Users\r01ig15\OneDrive\CodesWS\KnowledgeExtractor.v.1.0\assets\output\snomed_jan17_650000.owl
+(Writing New Ontology : 5913 msec.)
+RAM Beginning:663881: KB. RAM End:898052: KB. RAM Diff:234171: KB.
+TOTAL PROCESSING TIME : 12556 msec.
+--- The End ---

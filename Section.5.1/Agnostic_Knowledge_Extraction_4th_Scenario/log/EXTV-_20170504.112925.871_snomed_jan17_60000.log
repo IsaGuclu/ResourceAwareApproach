@@ -1,0 +1,28 @@
+--- Ontology Traversor ---
+Used Memory before: 552049 KB.
+Signature : <http://snomed.org/89811004>
+Signature : <http://snomed.org/12738006>
+(Ontology Loaded to OWLOntology - RAM Beginning:552049: KB. RAM End:401816: KB. RAM Diff:-150233: KB.)
+(Loading Ontology by OWLAPI : 298091 msec.)
+(Copying Axioms to Hashset - RAM Beginning:552049: KB. RAM End:492029: KB. RAM Diff:-60020: KB.)
+(Copying Axioms to Hashset took : 469 msec.)
+AxiomCount in Ontology : 650377
+* Desired Axioms: 2
+* iterationCount: 1
+Axioms.size(): 408
+DesiredSignatures.size(): 906
+ContinueIteration: true
+dAxiomsOfOntology Size : 649969
+* MAX AXIOM REACHED:60000
+* iterationCount: 2
+Axioms.size(): 60000
+DesiredSignatures.size(): 906
+ContinueIteration: false
+dAxiomsOfOntology Size : 649969
+(Extracting New Ontology : 2111 msec.)
+--- Stats ---
+* Axioms written to File: C:\Users\r01ig15\OneDrive\CodesWS\KnowledgeExtractor.v.1.0\assets\output\snomed_jan17_60000.owl
+(Writing New Ontology : 1084 msec.)
+RAM Beginning:552049: KB. RAM End:769391: KB. RAM Diff:217342: KB.
+TOTAL PROCESSING TIME : 3665 msec.
+--- The End ---

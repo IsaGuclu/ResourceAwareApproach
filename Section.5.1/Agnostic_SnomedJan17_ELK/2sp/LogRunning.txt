@@ -1,0 +1,85 @@
+1000.owl.txt	RAM	14751 KB.	Time	1251 msec. 	
+2000.owl.txt	RAM	19421 KB.	Time	2131 msec. 	
+3000.owl.txt	RAM	20954 KB.	Time	3069 msec. 	
+4000.owl.txt	RAM	27854 KB.	Time	3824 msec. 	
+5000.owl.txt	RAM	35187 KB.	Time	4869 msec. 	
+6000.owl.txt	RAM	34642 KB.	Time	5847 msec. 	
+7000.owl.txt	RAM	38761 KB.	Time	6916 msec. 	
+8000.owl.txt	RAM	41125 KB.	Time	7410 msec. 	
+9000.owl.txt	RAM	41526 KB.	Time	8489 msec. 	
+10000.owl.txt	RAM	45942 KB.	Time	9194 msec. 	
+15000.owl.txt	RAM	63685 KB.	Time	13900 msec. 	
+20000.owl.txt	RAM	76369 KB.	Time	17882 msec. 	
+25000.owl.txt	RAM	88764 KB.	Time	23466 msec. 	
+30000.owl.txt	RAM	102940 KB.	Time	27818 msec. 	
+35000.owl.txt	RAM	111376 KB.	Time	33009 msec. 	
+40000.owl.txt	RAM	129651 KB.	Time	37977 msec. 	
+45000.owl.txt	RAM	132752 KB.	Time	42701 msec. 	
+50000.owl.txt	RAM	146479 KB.	Time	48877 msec. 	
+55000.owl.txt	RAM	158126 KB.	Time	54663 msec. 	
+60000.owl.txt	RAM	169578 KB.	Time	60927 msec. 	
+65000.owl.txt	RAM	175198 KB.	Time	68218 msec. 	
+70000.owl.txt	RAM	182368 KB.	Time	73774 msec. 	
+75000.owl.txt	RAM	203250 KB.	Time	82396 msec. 	
+80000.owl.txt	RAM	213978 KB.	Time	90710 msec. 	
+85000.owl.txt	RAM	209036 KB.	Time	100249 msec. 	
+90000.owl.txt	RAM	228873 KB.	Time	110454 msec. 	
+95000.owl.txt	RAM	239784 KB.	Time	123042 msec. 	
+100000.owl.txt	RAM	243209 KB.	Time	137131 msec. 	
+105000.owl.txt	RAM	254078 KB.	Time	152051 msec. 	
+110000.owl.txt	RAM	264703 KB.	Time	167970 msec. 	
+115000.owl.txt	RAM	267403 KB.	Time	189549 msec. 	
+120000.owl.txt	RAM	281890 KB.	Time	192367 msec. 	
+125000.owl.txt	RAM	272270 KB.	Time	194948 msec. 	
+130000.owl.txt	RAM	284367 KB.	Time	197475 msec. 	
+135000.owl.txt	RAM	275972 KB.	Time	200497 msec. 	
+140000.owl.txt	RAM	277679 KB.	Time	208136 msec. 	
+145000.owl.txt	RAM	291885 KB.	Time	211007 msec. 	
+150000.owl.txt	RAM	285215 KB.	Time	212672 msec. 	
+155000.owl.txt	RAM	294187 KB.	Time	217922 msec. 	
+160000.owl.txt	RAM	299899 KB.	Time	219209 msec. 	
+165000.owl.txt	RAM	296138 KB.	Time	223785 msec. 	
+170000.owl.txt	RAM	296504 KB.	Time	225686 msec. 	
+175000.owl.txt	RAM	300729 KB.	Time	228336 msec. 	
+180000.owl.txt	RAM	295824 KB.	Time	230734 msec. 	
+185000.owl.txt	RAM	300445 KB.	Time	234801 msec. 	
+190000.owl.txt	RAM	307356 KB.	Time	234882 msec. 	
+195000.owl.txt	RAM	313062 KB.	Time	239190 msec. 	
+200000.owl.txt	RAM	307836 KB.	Time	244806 msec. 	
+210000.owl.txt	RAM	313658 KB.	Time	249447 msec. 	
+220000.owl.txt	RAM	315938 KB.	Time	255596 msec. 	
+230000.owl.txt	RAM	324424 KB.	Time	265992 msec. 	
+240000.owl.txt	RAM	328202 KB.	Time	274918 msec. 	
+250000.owl.txt	RAM	344255 KB.	Time	289848 msec. 	
+260000.owl.txt	RAM	341328 KB.	Time	300904 msec. 	
+270000.owl.txt	RAM	365399 KB.	Time	334612 msec. 	
+280000.owl.txt	RAM	365134 KB.	Time	355522 msec. 	
+290000.owl.txt	RAM	378107 KB.	Time	371178 msec. 	
+300000.owl.txt	RAM	393705 KB.	Time	403003 msec. 	
+310000.owl.txt	RAM	399015 KB.	Time	436586 msec. 	
+320000.owl.txt	RAM	410254 KB.	Time	460116 msec. 	
+330000.owl.txt	RAM	424065 KB.	Time	485840 msec. 	
+340000.owl.txt	RAM	438853 KB.	Time	567547 msec. 	
+350000.owl.txt	RAM	455507 KB.	Time	601927 msec. 	
+360000.owl.txt	RAM	485568 KB.	Time	648093 msec. 	
+370000.owl.txt	RAM	477028 KB.	Time	628896 msec. 	
+380000.owl.txt	RAM	479967 KB.	Time	597724 msec. 	
+390000.owl.txt	RAM	480893 KB.	Time	606614 msec. 	
+400000.owl.txt	RAM	491649 KB.	Time	615083 msec. 	
+410000.owl.txt	RAM	493728 KB.	Time	620790 msec. 	
+420000.owl.txt	RAM	506716 KB.	Time	653026 msec. 	
+430000.owl.txt	RAM	501439 KB.	Time	643045 msec. 	
+440000.owl.txt	RAM	502316 KB.	Time	673523 msec. 	
+450000.owl.txt	RAM	509294 KB.	Time	683412 msec. 	
+460000.owl.txt	
+470000.owl.txt	
+480000.owl.txt	
+490000.owl.txt	
+500000.owl.txt	
+510000.owl.txt	
+520000.owl.txt	
+530000.owl.txt	
+540000.owl.txt	
+550000.owl.txt	
+560000.owl.txt	
+570000.owl.txt	

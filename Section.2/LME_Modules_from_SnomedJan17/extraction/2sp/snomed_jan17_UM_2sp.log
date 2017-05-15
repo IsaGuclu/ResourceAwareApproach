@@ -1,0 +1,15 @@
+Module Output : /Users/isa/Desktop/out/snomed_jan17_UM_2sp.owl
+**Time for Loading Ontology (s): 10.358
+**Time for getting matched signature (s): 0.002
+**Time for creating module manager (s): 0.437
+**Time for extracting module (s): 5.337
+**Time for saving module (s): 0.003
+
+Extracted UM Module for a signature size of 2
+Number of Axioms -> Module: 214 / Whole Ontology: 650377
+Number of Classes -> Module: 106 / Whole Ontology: 325143
+Number of Roles -> Module: 3 / Whole Ontology: 80
+Number of Individuals -> Module: 0 / Whole Ontology: 0
+Relative size: 1.27 % of the ontology
+
+**Time for printing results (s): 0.448

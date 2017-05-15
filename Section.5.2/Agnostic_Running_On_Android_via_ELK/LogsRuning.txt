@@ -1,0 +1,5 @@
+15286.owl.txt	RAM	65722 KB.	Time	13840 msec. 	
+79793.owl.txt	RAM	194888 KB.	Time	83040 msec. 	
+187203.owl.txt	RAM	325797 KB.	Time	266406 msec. 	
+310916.owl.txt	RAM	399413 KB.	Time	418266 msec. 	
+398397.owl.txt	RAM	491849 KB.	Time	644432 msec. 	

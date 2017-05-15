@@ -1,0 +1,24 @@
+2017-05-13 12:48:37,798 INFO  [config.ConfigurationFactory]-[83] Loading default configuration parameters for class org.semanticweb.elk.reasoner.config.ReasonerConfiguration
+2017-05-13 12:48:37,830 INFO  [reasoner.Reasoner]-[119] ELK reasoner was created
+2017-05-13 12:48:37,840 INFO  [stages.LoggingStageExecutor]-[70] Loading of Axioms started
+2017-05-13 12:48:37,846 INFO  [stages.AbstractReasonerStage]-[179] Loading of Axioms using 1 workers
+2017-05-13 12:49:36,005 INFO  [stages.LoggingStageExecutor]-[103] Loading of Axioms finished in 58160 ms
+2017-05-13 12:49:36,005 INFO  [stages.LoggingStageExecutor]-[70] Property Saturation Initialization started
+2017-05-13 12:49:36,007 INFO  [stages.AbstractReasonerStage]-[179] Property Saturation Initialization using 1 workers
+2017-05-13 12:49:36,013 INFO  [stages.LoggingStageExecutor]-[103] Property Saturation Initialization finished in 6 ms
+2017-05-13 12:49:36,014 INFO  [stages.LoggingStageExecutor]-[70] Reflexive Property Computation started
+2017-05-13 12:49:36,016 INFO  [stages.AbstractReasonerStage]-[179] Reflexive Property Computation using 1 workers
+2017-05-13 12:49:36,020 INFO  [stages.LoggingStageExecutor]-[103] Reflexive Property Computation finished in 5 ms
+2017-05-13 12:49:36,021 INFO  [stages.LoggingStageExecutor]-[70] Object Property Hierarchy and Composition Computation started
+2017-05-13 12:49:36,022 INFO  [stages.AbstractReasonerStage]-[179] Object Property Hierarchy and Composition Computation using 1 workers
+2017-05-13 12:49:36,032 INFO  [stages.LoggingStageExecutor]-[103] Object Property Hierarchy and Composition Computation finished in 11 ms
+2017-05-13 12:49:36,033 INFO  [stages.LoggingStageExecutor]-[70] Context Initialization started
+2017-05-13 12:49:36,034 INFO  [stages.AbstractReasonerStage]-[179] Context Initialization using 1 workers
+2017-05-13 12:49:36,034 INFO  [stages.LoggingStageExecutor]-[103] Context Initialization finished in 0 ms
+2017-05-13 12:49:36,035 INFO  [stages.LoggingStageExecutor]-[70] Consistency Checking started
+2017-05-13 12:49:36,038 INFO  [stages.AbstractReasonerStage]-[179] Consistency Checking using 1 workers
+2017-05-13 12:49:36,041 INFO  [stages.LoggingStageExecutor]-[103] Consistency Checking finished in 4 ms
+2017-05-13 12:49:36,042 INFO  [stages.LoggingStageExecutor]-[70] Class Taxonomy Computation started
+2017-05-13 12:49:36,050 INFO  [stages.AbstractReasonerStage]-[179] Class Taxonomy Computation using 1 workers
+2017-05-13 13:00:18,505 INFO  [stages.LoggingStageExecutor]-[103] Class Taxonomy Computation finished in 642463 ms
+2017-05-13 13:00:18,515 INFO  [reasoner.Reasoner]-[232] ELK reasoner has shut down

@@ -1,0 +1,19 @@
+--- Ontology Traversor ---
+--- Type of modules: DCM
+Used Memory before: 605750 KB.
+Signature : http://snomed.org/89811004
+Signature : http://snomed.org/12738006
+Matched 2 entities in the ontology
+(Ontology Loaded to OWLOntology - RAM Beginning:605750: KB. RAM End:970447: KB. RAM Diff:364697: KB.)
+(Extracting memory:605750: KB. RAM End:1159765: KB. RAM Diff:554015: KB.)
+AxiomCount in Ontology : 623676
+* Desired Axioms: 2
+(Extracting New Ontology : 6344 msec.)
+--- Stats ---
+initial signature: 2
+module signature: 312017
+* Axioms written to File: /Users/isa/OneDrive/CodesWS/KnowledgeExtractor.v.1.0/assets/output/DCM-snomed_jan17.owl
+(Writing New Ontology : 11113 msec.)
+RAM Beginning:605750: KB. RAM End:829859: KB. RAM Diff:224109: KB.
+TOTAL PROCESSING TIME : 17458 msec.
+--- The End ---

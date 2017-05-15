@@ -1,0 +1,12 @@
+LUM_1sp.owl.txt	RAM	8568 KB.	Time	116 msec. 	
+ULM_1sp.owl.txt	RAM	9495 KB.	Time	57 msec. 	
+UM_1sp.owl.txt	RAM	10423 KB.	Time	56 msec. 	
+DRM_1sp.owl.txt	RAM	11344 KB.	Time	62 msec. 	
+LUM_2sp.owl.txt	RAM	13157 KB.	Time	183 msec. 	
+ULM_2sp.owl.txt	RAM	9069 KB.	Time	183 msec. 	
+UM_2sp.owl.txt	RAM	10888 KB.	Time	174 msec. 	
+DRM_2sp.owl.txt	RAM	12703 KB.	Time	164 msec. 	
+LUM_3sp.owl.txt	RAM	9951 KB.	Time	230 msec. 	
+ULM_3sp.owl.txt	RAM	12352 KB.	Time	231 msec. 	
+UM_3sp.owl.txt	RAM	10269 KB.	Time	235 msec. 	
+DRM_3sp.owl.txt	RAM	12825 KB.	Time	235 msec. 

@@ -1,0 +1,37 @@
+--- Ontology Traversor ---
+--- Type of modules: ULM
+Used Memory before: 347825 KB.
+Signature : http://snomed.org/89811004
+Signature : http://snomed.org/12738006
+Matched 2 entities in the ontology
+(Ontology Loaded to OWLOntology - RAM Beginning:347825: KB. RAM End:743865: KB. RAM Diff:396040: KB.)
+Module size (axioms) Iter 1: 623676
+Module size (axioms) Iter 2: 42
+(Copying Axioms to Hashset - RAM Beginning:347825: KB. RAM End:1035041: KB. RAM Diff:687216: KB.)
+(Copying Axioms to Hashset took : 9223 msec.)
+(So far Time passed : 82766 msec.)
+AxiomCount in Ontology : 650335
+* Desired Axioms: 22
+* iterationCount: 1
+Axioms.size(): 2986
+DesiredSignatures.size(): 4869
+ContinueIteration: true
+dAxiomsOfOntology Size : 647391
+* iterationCount: 2
+Axioms.size(): 147133
+DesiredSignatures.size(): 166860
+ContinueIteration: true
+dAxiomsOfOntology Size : 503244
+* MAX AXIOM REACHED:398397
+* iterationCount: 3
+Axioms.size(): 398397
+DesiredSignatures.size(): 166860
+ContinueIteration: false
+dAxiomsOfOntology Size : 503244
+(Extracting New Ontology : 2677 msec.)
+--- Stats ---
+* Axioms written to File: /Users/isa/OneDrive/CodesWS/KnowledgeExtractor.v.1.0/assets/output/ULM-EXT-_snomed_jan17_ULM_398397.owl
+(Writing New Ontology : 4967 msec.)
+RAM Beginning:347825: KB. RAM End:1222404: KB. RAM Diff:874579: KB.
+TOTAL PROCESSING TIME : 16868 msec.
+--- The End ---

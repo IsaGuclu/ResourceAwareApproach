@@ -1,0 +1,18 @@
+1000.owl.txt	Time	: 1627 msec.	RAM	25282 KB.	
+2000.owl.txt	Time	: 3114 msec.	RAM	41453 KB.	
+3000.owl.txt	Time	: 4503 msec.	RAM	52043 KB.	
+4000.owl.txt	Time	: 7035 msec.	RAM	63481 KB.	
+5000.owl.txt	Time	: 9025 msec.	RAM	72794 KB.	
+6000.owl.txt	Time	: 10706 msec.	RAM	81269 KB.	
+7000.owl.txt	Time	: 16061 msec.	RAM	100425 KB.	
+8000.owl.txt	Time	: 18177 msec.	RAM	106969 KB.	
+9000.owl.txt	Time	: 19287 msec.	RAM	116805 KB.	
+10000.owl.txt	Time	: 22569 msec.	RAM	130157 KB.	
+15000.owl.txt	Time	: 34519 msec.	RAM	175543 KB.	
+20000.owl.txt	Time	: 63720 msec.	RAM	223825 KB.	
+25000.owl.txt	Time	: 82703 msec.	RAM	270576 KB.	
+30000.owl.txt	Time	: 105304 msec.	RAM	316266 KB.	
+35000.owl.txt	Time	: 130839 msec.	RAM	356855 KB.	
+40000.owl.txt	Time	: 201126 msec.	RAM	402981 KB.	
+45000.owl.txt	Time	: 243848 msec.	RAM	447188 KB.	
+50000.owl.txt	
