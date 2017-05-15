@@ -1,8 +1,6 @@
 # Adaptive Knowledge Extraction for Semantic Reasoning on Mobile Environments
 This repository contains all experimental setup used in the submission for ISWC2017.
-
 Every folder under root folder contains resources used in the related section of the paper.
-
 Source code of different "Knowledge Extraction" strategies can be reached from:
 https://github.com/IsaGuclu/KnowledgeExtraction
 
