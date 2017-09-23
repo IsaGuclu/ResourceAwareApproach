@@ -1,0 +1,7 @@
+Scenario3:
+* Entire Lung -> 	http://purl.bioontology.org/ontology/SNOMEDCT/181216001
+* Adenocarcinoma of Liver -> http://purl.bioontology.org/ontology/SNOMEDCT/408646000
+
+Links:
+* http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&conceptid=181216001
+* http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&conceptid=408646000

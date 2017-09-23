@@ -1,4 +1,0 @@
-EMAP <Heart>: <http://purl.obolibrary.org/obo/EMAP_560>
-FMA-EL <Heart>: <http://bio2rdf.org/FMA:7088>
-GO <heart process>: <http://purl.obolibrary.org/obo/GO_0003015>
-CHEBI <protein>: <http://purl.obolibrary.org/obo/CHEBI_36080>

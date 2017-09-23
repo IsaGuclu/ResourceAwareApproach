@@ -1,0 +1,9 @@
+Scenario1:
+* myocardial infarction -> (heart attack) http://purl.bioontology.org/ontology/SNOMEDCT/22298006
+* Cholesterol -> http://purl.bioontology.org/ontology/SNOMEDCT/84698008
+* Nutrition -> http://purl.bioontology.org/ontology/SNOMEDCT/384759009
+
+Links:
+* http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&conceptid=22298006
+* http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&conceptid=84698008
+* http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&conceptid=384759009

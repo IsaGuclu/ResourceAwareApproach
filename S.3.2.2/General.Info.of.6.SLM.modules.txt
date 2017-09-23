@@ -1,0 +1,198 @@
+--- General Info of an Ontology ---
+Ontology: Scenario1_DCM-snomed_jan17.owl - 623689 axioms.
+(Axiom Types)
+-------------
+SubObjectPropertyOf = 11
+Declaration = 312024
+EquivalentClasses = 79468
+SubPropertyChainOf = 1
+SubClassOf = 232185
+TOTAL = 623689
+***
+--- End of Task. (88122 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario1_DRM-snomed_jan17.owl - 192 axioms.
+(Axiom Types)
+-------------
+Declaration = 98
+EquivalentClasses = 27
+SubClassOf = 67
+TOTAL = 192
+***
+--- End of Task. (43 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario1_LM-snomed_jan17.owl - 623689 axioms.
+(Axiom Types)
+-------------
+SubObjectPropertyOf = 11
+Declaration = 312024
+EquivalentClasses = 79468
+SubPropertyChainOf = 1
+SubClassOf = 232185
+TOTAL = 623689
+***
+--- End of Task. (89971 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario1_LUM-snomed_jan17.owl - 144 axioms.
+(Axiom Types)
+-------------
+Declaration = 76
+EquivalentClasses = 27
+SubClassOf = 41
+TOTAL = 144
+***
+--- End of Task. (36 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario1_ULM-snomed_jan17.owl - 178 axioms.
+(Axiom Types)
+-------------
+Declaration = 93
+EquivalentClasses = 27
+SubClassOf = 58
+TOTAL = 178
+***
+--- End of Task. (40 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario1_UM-snomed_jan17.owl - 192 axioms.
+(Axiom Types)
+-------------
+Declaration = 98
+EquivalentClasses = 27
+SubClassOf = 67
+TOTAL = 192
+***
+--- End of Task. (41 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario2_DCM-snomed_jan17.owl - 623676 axioms.
+(Axiom Types)
+-------------
+SubObjectPropertyOf = 11
+Declaration = 312017
+EquivalentClasses = 79468
+SubPropertyChainOf = 1
+SubClassOf = 232179
+TOTAL = 623676
+***
+--- End of Task. (87725 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario2_DRM-snomed_jan17.owl - 271 axioms.
+(Axiom Types)
+-------------
+SubObjectPropertyOf = 3
+Declaration = 139
+EquivalentClasses = 48
+SubClassOf = 81
+TOTAL = 271
+***
+--- End of Task. (48 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario2_LM-snomed_jan17.owl - 623676 axioms.
+(Axiom Types)
+-------------
+SubObjectPropertyOf = 11
+Declaration = 312017
+EquivalentClasses = 79468
+SubPropertyChainOf = 1
+SubClassOf = 232179
+TOTAL = 623676
+***
+--- End of Task. (84566 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario2_LUM-snomed_jan17.owl - 233 axioms.
+(Axiom Types)
+-------------
+SubObjectPropertyOf = 1
+Declaration = 123
+EquivalentClasses = 46
+SubClassOf = 63
+TOTAL = 233
+***
+--- End of Task. (47 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario2_ULM-snomed_jan17.owl - 249 axioms.
+(Axiom Types)
+-------------
+SubObjectPropertyOf = 1
+Declaration = 131
+EquivalentClasses = 46
+SubPropertyChainOf = 1
+SubClassOf = 70
+TOTAL = 249
+***
+--- End of Task. (49 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario2_UM-snomed_jan17.owl - 265 axioms.
+(Axiom Types)
+-------------
+SubObjectPropertyOf = 1
+Declaration = 136
+EquivalentClasses = 46
+SubPropertyChainOf = 1
+SubClassOf = 81
+TOTAL = 265
+***
+--- End of Task. (51 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario3_DCM-snomed_jan17.owl - 623676 axioms.
+(Axiom Types)
+-------------
+SubObjectPropertyOf = 11
+Declaration = 312017
+EquivalentClasses = 79468
+SubPropertyChainOf = 1
+SubClassOf = 232179
+TOTAL = 623676
+***
+--- End of Task. (87402 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario3_DRM-snomed_jan17.owl - 214 axioms.
+(Axiom Types)
+-------------
+Declaration = 109
+EquivalentClasses = 42
+SubClassOf = 63
+TOTAL = 214
+***
+--- End of Task. (44 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario3_LM-snomed_jan17.owl - 623676 axioms.
+(Axiom Types)
+-------------
+SubObjectPropertyOf = 11
+Declaration = 312017
+EquivalentClasses = 79468
+SubPropertyChainOf = 1
+SubClassOf = 232179
+TOTAL = 623676
+***
+--- End of Task. (87527 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario3_LUM-snomed_jan17.owl - 201 axioms.
+(Axiom Types)
+-------------
+Declaration = 104
+EquivalentClasses = 42
+SubClassOf = 55
+TOTAL = 201
+***
+--- End of Task. (44 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario3_ULM-snomed_jan17.owl - 206 axioms.
+(Axiom Types)
+-------------
+Declaration = 106
+EquivalentClasses = 42
+SubClassOf = 58
+TOTAL = 206
+***
+--- End of Task. (43 msec.) ---
+--- General Info of an Ontology ---
+Ontology: Scenario3_UM-snomed_jan17.owl - 214 axioms.
+(Axiom Types)
+-------------
+Declaration = 109
+EquivalentClasses = 42
+SubClassOf = 63
+TOTAL = 214
+***
+--- End of Task. (46 msec.) ---

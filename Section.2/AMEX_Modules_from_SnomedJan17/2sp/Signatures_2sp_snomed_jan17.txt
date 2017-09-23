@@ -1,3 +1,0 @@
-[Concepts]
-http://snomed.org/181268008
-http://snomed.org/408646000

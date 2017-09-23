@@ -1,6 +1,0 @@
-LUM-snomed_jan17	RAM	8698 KB.	Time	119 msec. 	
-ULM-snomed_jan17	RAM	9524 KB.	Time	52 msec. 	
-DRM-snomed_jan17	RAM	10344 KB.	Time	50 msec. 	
-UM-snomed_jan17	RAM	11165 KB.	Time	38 msec. 	
-DCM-snomed_jan17	
-LM-snomed_jan17	

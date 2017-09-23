@@ -1,0 +1,12 @@
+Scenario2:
+* Bronchitis -> http://purl.bioontology.org/ontology/SNOMEDCT/32398004
+* Entire Lung -> http://purl.bioontology.org/ontology/SNOMEDCT/181216001
+* Bronchitis vaccine -> http://purl.bioontology.org/ontology/SNOMEDCT/62354009
+* Influenza -> http://purl.bioontology.org/ontology/SNOMEDCT/6142004
+
+Links:
+* http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&conceptid=32398004
+* http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&conceptid=181216001
+* http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&conceptid=62354009
+* http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&conceptid=6142004
+
